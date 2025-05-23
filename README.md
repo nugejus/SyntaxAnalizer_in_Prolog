@@ -25,7 +25,7 @@ Ap,Apa - Adjective Phrase;
 Np,Npp,Npt - Noun Phrase; 
 
 
-$ S \rightarrow NpVp $
+$$ S \rightarrow NpVp $$
 
 $ Np \rightarrow P | Npp$
 
