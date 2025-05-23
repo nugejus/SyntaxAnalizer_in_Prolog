@@ -27,20 +27,20 @@ Np,Npp,Npt - Noun Phrase;
 
 $$ S \rightarrow NpVp $$
 
-$ Np \rightarrow P | Npp$
+$$ Np \rightarrow P | Npp $$
 
-$ Npp \rightarrow N | Ap N | DetNpp | NNpt | ApNNpt|DetNppNpt $
+$$ Npp \rightarrow N | Ap N | DetNpp | NNpt | ApNNpt|DetNppNpt $$
 
-$ Npt \rightarrow PpNpt | Npt $
+$$ Npt \rightarrow PpNpt | Npt $$
 
-$ Vp \rightarrow V|VNp|VVpp|AdvV|AdvVNp|AdvVVpp$
-$ Vpp \rightarrow Pp|PpVpp$
+$$ Vp \rightarrow V|VNp|VVpp|AdvV|AdvVNp|AdvVVpp$$
+$$ Vpp \rightarrow Pp|PpVpp$$
 
-$ Pp \rightarrow Prep|Npp$
+$$ Pp \rightarrow Prep|Npp$$
 
-$ Ap \rightarrow AdvApa|DetApa|DetAdvApa $
+$$ Ap \rightarrow AdvApa|DetApa|DetAdvApa $$
 
-$ Apa \rightarrow Adj|AdjApa$
+$$ Apa \rightarrow Adj|AdjApa$$
 
 ### File explain
 
